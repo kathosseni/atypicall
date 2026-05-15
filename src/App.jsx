@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Offre from "./pages/Offre";
@@ -24,6 +25,7 @@ export default function App() {
         {page === "contact" && <Contact />}
       </main>
       <Footer navigate={navigate} />
+      <SpeedInsights />
     </div>
   );
 }
