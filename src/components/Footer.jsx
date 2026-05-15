@@ -21,7 +21,7 @@ export default function Footer({ navigate }) {
             <li><button>Avignon, PACA</button></li>
             <li><button>04 62 18 86 62</button></li>
             <li><button>contact@atypicall.com</button></li>
-            <li><button>www.atypicall.com</button></li>
+            <li><button>atypicall.vercel.app</button></li>
           </ul>
         </div>
       </div>

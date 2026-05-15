@@ -33,7 +33,7 @@ export default function Contact() {
         </div>
         <div className="contact-detail">
           <div className="contact-detail-icon">🌐</div>
-          <span>www.atypicall.com</span>
+          <span>atypicall.vercel.app</span>
         </div>
       </div>
 
